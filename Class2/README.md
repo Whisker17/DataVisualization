@@ -15,7 +15,7 @@
 
 ## 配置VSCode环境
 
-![image-20201113182019528](C:\Users\seduos-03\AppData\Roaming\Typora\typora-user-images\image-20201113182019528.png)
+![VsCode插件](./src/20201114.png)
 
 
 
