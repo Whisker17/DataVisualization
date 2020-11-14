@@ -2,12 +2,10 @@
 
 ## 目录
 
-- [Class 2](#class-2)
-  - [目录](#目录)
-  - [下载VSCode](#下载vscode)
-  - [配置VSCode环境](#配置vscode环境)
-  - [下载Node](#下载Node)
-  - [实战 echarts —— 实现一个简单的图表](#实现)
+- [下载VSCode](#下载vscode)
+- [配置VSCode环境](#配置vscode环境)
+- [下载Node](#下载Node)
+- [实战 echarts —— 实现一个简单的图表](#实现)
 
 ## 下载VSCode
 
